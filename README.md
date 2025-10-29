@@ -16,7 +16,7 @@ So when you're trading, you're not just saving money upfront—you're earning cr
 
 When you hit the registration page, look for the field that says "Referral code (optional)." Type in **47044926**. The 30% rate kicks in immediately, plus you'll unlock a mystery box reward. No waiting periods, no hidden conditions.
 
-![OKX referral code registration showing 30% discount and mystery box bonus for new users](image/333516384871.webp)
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/cab6c773-147b-4b65-8e69-46bd839c50f9" />
 
 ## Setting Up Your OKX Account (Takes About 3 Minutes)
 
